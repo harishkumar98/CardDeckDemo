@@ -209,6 +209,7 @@ public class CardDeckDemo {
     //Adding the number of players to play the game --- 52 should be divisible by the number of players
     // I have taken number of players as 4
     
+    System.out.println("Enter the number of players: Default choose 4");
       int p_num = Card.sc.nextInt();
       //int p_num = 4;
       System.out.println();
